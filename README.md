@@ -1,11 +1,3 @@
-# Build Your Own World Design Document
+#Maze Game
 
-**Partner 1:**
-
-**Partner 2:**
-
-## Classes and Data Structures
-
-## Algorithms
-
-## Persistence
+To run, start main and follow instructions to generate a random world and play!
